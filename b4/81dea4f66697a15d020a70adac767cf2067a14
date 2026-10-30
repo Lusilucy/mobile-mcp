@@ -1,0 +1,31 @@
+src/harmony.ts
+  s_8633b48d6f6fa1::t_8557b6ca978ccd 249-250
+  s_8633b48d6f6fa1::t_9620199c69db41 286-287
+  s_8633b48d6f6fa1::t_0cddfdfa798248 497
+  s_8633b48d6f6fa1::t_023fd6e2825ba4 507-508,514
+  s_8633b48d6f6fa1::t_e6aa0004439720 470-474
+  s_8633b48d6f6fa1::t_bd3b3d8e56d623 173
+  s_8633b48d6f6fa1::t_78c6274bf7c036 468-469
+  s_8633b48d6f6fa1::t_5489c3d733600c 40-44
+src/server.ts
+  s_8633b48d6f6fa1::t_50d3d1a31b4a2d 355-356,374-376
+  s_8633b48d6f6fa1::t_5a7d536245ddf7 663
+  s_8633b48d6f6fa1::t_f3201a0a4d1818 32
+  s_8633b48d6f6fa1::t_633c1eea26a0fa 377-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b481dea4f66697a15d020a70adac767cf2067a14",
+  "prompts": {},
+  "sessions": {
+    "s_8633b48d6f6fa1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbff9a37-c610-4fc6-856e-6ba3f65a92b8",
+        "model": "glm-5.3-flashx"
+      },
+      "human_author": "Lusilucy <45535076+Lusilucy@users.noreply.github.com>"
+    }
+  }
+}
