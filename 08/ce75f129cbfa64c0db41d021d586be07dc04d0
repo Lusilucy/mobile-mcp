@@ -1,0 +1,57 @@
+test/harmony-devices.test.ts
+  s_8633b48d6f6fa1::t_1953a24f8e785c 1-5,7-39
+  s_8633b48d6f6fa1::t_5c5fffd88cc08b 6
+README.ja.md
+  s_8633b48d6f6fa1::t_cdbec8539d964f 539
+  s_8633b48d6f6fa1::t_d00e886d8e7c6a 87
+README.zh-CN.md
+  s_8633b48d6f6fa1::t_284b2026f95450 87
+  s_8633b48d6f6fa1::t_0cb36999c55639 539
+src/harmony.ts
+  s_8633b48d6f6fa1::t_1b134d8c10eff7 1,5-84,133-148,175-207,210-319,321,323-324,326-400,404-405,407-460,462-469,472-487,489-525,534,540-542,544-563,565-591
+  s_8633b48d6f6fa1::t_a9811895c811ee 2
+  s_8633b48d6f6fa1::t_2a8c07b9121119 85-86,95-98,101
+  s_8633b48d6f6fa1::t_ce3da962df010c 129-132
+  s_8633b48d6f6fa1::t_c8de172dd7eb99 3
+  s_8633b48d6f6fa1::t_38cc575498a03c 149-174
+  s_8633b48d6f6fa1::t_7cdc4be6bd3eb4 208-209
+  s_8633b48d6f6fa1::t_f8ce6ae92d9662 108-128
+  s_8633b48d6f6fa1::t_1ec5876c6c0d5a 4
+  s_8633b48d6f6fa1::t_c9cbca94b0430b 87-94,99-100,102-107
+  s_8633b48d6f6fa1::t_6c862dbf3f40c6 322
+  s_8633b48d6f6fa1::t_e7ed7445b4c0ea 403
+  s_8633b48d6f6fa1::t_1a48d58e139bfb 320,325,401-402,406,461
+  s_8633b48d6f6fa1::t_45fdd9aca03781 470-471
+  s_8633b48d6f6fa1::t_4a2690c3b1a70f 564
+  s_8633b48d6f6fa1::t_1e3c7df1ded95f 488
+  s_8633b48d6f6fa1::t_3d53f291d3a300 526-533,535-539,543
+src/server.ts
+  s_8633b48d6f6fa1::t_cbe6e67d56f78c 268-273
+  s_8633b48d6f6fa1::t_b30791c614a9e1 13
+  s_8633b48d6f6fa1::t_2d0e3bc526b0f8 358-365,367-374
+  s_8633b48d6f6fa1::t_e862e0ff78bb52 357
+  s_8633b48d6f6fa1::t_f8cf6ed763a7cf 366
+  s_8633b48d6f6fa1::t_bfc9eaba499664 41-42
+  s_8633b48d6f6fa1::t_d2f663546ec9c1 375
+README.md
+  s_8633b48d6f6fa1::t_837f6f7e97c6db 549
+  s_8633b48d6f6fa1::t_d715cadd31a2d5 96
+src/mobilecli.ts
+  s_8633b48d6f6fa1::t_9cb615255a4d6d 54-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "08ce75f129cbfa64c0db41d021d586be07dc04d0",
+  "prompts": {},
+  "sessions": {
+    "s_8633b48d6f6fa1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbff9a37-c610-4fc6-856e-6ba3f65a92b8",
+        "model": "glm-5.3-flashx"
+      },
+      "human_author": null
+    }
+  }
+}
