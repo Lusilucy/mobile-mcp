@@ -1,0 +1,20 @@
+src/harmony.ts
+  s_8633b48d6f6fa1::t_c9c125dc7668cd 472-473,477
+  s_8633b48d6f6fa1::t_5bd36265212050 441-443
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "394c577dd6a11f9bdacf2b0e00c67a5ab36b5412",
+  "prompts": {},
+  "sessions": {
+    "s_8633b48d6f6fa1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbff9a37-c610-4fc6-856e-6ba3f65a92b8",
+        "model": "glm-5.3-flashx"
+      },
+      "human_author": "Lusilucy <45535076+Lusilucy@users.noreply.github.com>"
+    }
+  }
+}
